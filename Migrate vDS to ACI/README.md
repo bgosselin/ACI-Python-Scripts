@@ -5,7 +5,7 @@ Migrate Legacy vDS Virtual Network Connections into ACI (Python)
 
 * Single script to help deploy ACI in Brown-field scenarios and begin applying policy to existing virtual networks
 * Collects existing Portgroups from vDS's in vCenter, maps each Portgroup to and EPG and binds these EPG's to an ACI controlled vDS.
-*Ultimately the use of this script is to provide a starting point for the migration process.  User's can apply a default blacklist or whitlist contract between EPG's and later refine network policy as needed for each legacy application.
+* Ultimately the use of this script is to provide a starting point for the migration process.  User's can apply a default blacklist or whitlist contract between EPG's and later refine network policy as needed for each legacy application.
 
 # Installation
 
