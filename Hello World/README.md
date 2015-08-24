@@ -10,6 +10,7 @@ Python Script that builds an ACI Tenant and creates a new VRF instance within it
 ### Environment
 
 * Python 2.7+
+* APIC Version Tested: 1.0(3f)
 * [Cisco APIC Python SDK] (http://software.cisco.com/download/release.html?i=!y&mdfid=285968390&softwareid=286278832&release=1.0%281k%29&os),
   download the .egg file and follow the link to install acicobra:
   https://developer.cisco.com/media/apicDcPythonAPI_v0.1/install.html#
